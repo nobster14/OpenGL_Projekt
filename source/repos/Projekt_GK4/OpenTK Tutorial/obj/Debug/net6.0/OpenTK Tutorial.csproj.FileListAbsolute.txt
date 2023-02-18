@@ -1,0 +1,66 @@
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.AssemblyInfo.cs
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.exe
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.deps.json
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.runtimeconfig.json
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.pdb
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.csproj.CopyComplete
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\refint\OpenTK Tutorial.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.pdb
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.genruntimeconfig.cache
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\obj\Debug\net6.0\ref\OpenTK Tutorial.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\StbImageSharp.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\OpenTK Tutorial\bin\Debug\net6.0\CjClutter.ObjLoader.Loader.pdb
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.exe
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.deps.json
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.runtimeconfig.json
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK Tutorial.pdb
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\StbImageSharp.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\bin\Debug\net6.0\CjClutter.ObjLoader.Loader.pdb
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.csproj.CopyComplete
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\refint\OpenTK Tutorial.dll
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.pdb
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\OpenTK Tutorial.genruntimeconfig.cache
+C:\Users\piotr\source\repos\Projekt_GK4\OpenTK Tutorial\obj\Debug\net6.0\ref\OpenTK Tutorial.dll

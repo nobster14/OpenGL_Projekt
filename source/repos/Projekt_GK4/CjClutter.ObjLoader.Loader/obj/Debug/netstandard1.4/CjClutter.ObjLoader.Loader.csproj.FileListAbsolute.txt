@@ -1,0 +1,30 @@
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.deps.json
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.pdb
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\Projekt GK_2\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.pdb
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.deps.json
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.pdb
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.AssemblyInfo.cs
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\OpenTK Tutorial\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.pdb
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.deps.json
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.pdb
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.dll
+C:\Users\piotr\source\repos\Projekt_GK4\CjClutter.ObjLoader.Loader\obj\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.pdb

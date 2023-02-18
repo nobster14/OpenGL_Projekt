@@ -1,0 +1,29 @@
+﻿// Ustawienia cieniowania
+	B - włącza cieniowanie Phonga(domyślne)
+	N - włącza cienowanie Gourauda
+	M - włącza cieniowanie stałe
+
+// Ustawienia kamery
+	1 - związana z ruchomym obiektem(domyślne)
+	2 - nieruchoma obserwująca scenę
+	3 - nieruchoma śledząca ruchomy obiekt
+
+// Ustawienia ruchu
+	W - ruch w przód obiektu oraz kamery związanej z ruchomym obiektem
+	A - ruch w lewo obiektu oraz kamery związanej z ruchomym obiektem
+	S - ruch w tył obiektu oraz kamery związanej z ruchomym obiektem
+	D - ruch w prawo obiektu oraz kamery związanej z ruchomym obiektem
+	Spacja - ruch do góry obiektu oraz kamery związanej z ruchomym obiektem
+	Lewy Shift - ruch w dół obiektu oraz kamery związanej z ruchomym obiektem
+
+// Ustawienia obiektu
+	L - włączenie drgań
+	K - wyłączenie drgań(domyślne)
+
+// Ustawienia reflektorów
+	O - zmiania aktualnie modyfikowany kierunek świecenia reflektora na reflektor numer 1(domyślne)
+	P - zmiania aktualnie modyfikowany kierunek świecenia reflektora na reflektor numer 2
+	Left Arrow - przesuwa w lewo kierunek świecenia aktualnie modyfikowanego reflektora
+	Right Arrow - przesuwa w prawo kierunek świecenia aktualnie modyfikowanego reflektora
+	Bottom Arrow - przesuwa w dół kierunek świecenia aktualnie modyfikowanego reflektora
+	Top Arrow - przesuwa w górę kierunek świecenia aktualnie modyfikowanego reflektora
